@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Reset Credits"
+  short_description: "中文展示 Codex 重置次数、过期和提醒时间。"
+  default_prompt: "Use $codex-reset-credits 用中文展示我的 Codex 重置次数、每次过期时间和提醒时间。"
